@@ -24,7 +24,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <!-- 2.3.10.Final has an unpublished dependency. This is the version prior to that -->
-    <resteasy.version>2.3.7.Final</resteasy.version>
+    <resteasy.version>3.0.11.Final</resteasy.version>
   </properties>
   
   <dependencies>
