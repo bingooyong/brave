@@ -25,7 +25,7 @@
         <p6spy.version>3.0.0</p6spy.version>
         <derby.version>10.13.1.1</derby.version>
         <!-- Tests fail on connect exception using latest liquibase -->
-        <liquibase.version>3.0.8</liquibase.version>
+        <liquibase.version>4.8.0</liquibase.version>
     </properties>
 
     <dependencies>
